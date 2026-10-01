@@ -26,7 +26,7 @@ The goal wasn't just to produce a prediction — it was to work through the **co
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Rather than building one model with multiple inputs, this project deliberately trains **three independent single-feature models** — one per advertising channel:
 
