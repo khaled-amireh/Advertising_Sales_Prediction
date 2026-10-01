@@ -40,7 +40,7 @@ Comparing the three in isolation — rather than jumping straight to a multi-fea
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Dataset:** Advertising Dataset
 
