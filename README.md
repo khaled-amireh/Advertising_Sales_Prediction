@@ -64,7 +64,7 @@ Comparing the three in isolation — rather than jumping straight to a multi-fea
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```mermaid
 flowchart LR
