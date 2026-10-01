@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📺 Advertising Sales Prediction
+#  Advertising Sales Prediction
 
 ### Comparing TV, Radio, and Newspaper spend as predictors of sales with Simple Linear Regression
 
