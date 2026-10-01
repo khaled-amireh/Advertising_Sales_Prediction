@@ -93,7 +93,7 @@ This same seven-step process was repeated independently for each advertising cha
 
 ---
 
-## 📈 Results & Summary
+##  Results & Summary
 
 After evaluating all three models on the held-out test set:
 
