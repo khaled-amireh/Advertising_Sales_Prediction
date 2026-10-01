@@ -18,7 +18,7 @@
 
 ---
 
-## 📖 About the Project
+##  About the Project
 
 This project is part of an ongoing Machine Learning learning journey. Three separate **Simple Linear Regression** models were built with Python and Scikit-learn, each predicting product sales from a single advertising channel.
 
