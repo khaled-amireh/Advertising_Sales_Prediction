@@ -111,7 +111,7 @@ A higher R² paired with lower MSE/RMSE on the **TV** model indicates sales vari
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 Based on the evaluation metrics, **TV advertising is the strongest single feature for predicting sales** when modeled with Simple Linear Regression — it produced both the highest R² Score and the lowest error (MSE/RMSE) of the three channels tested. **Newspaper advertising** was the weakest standalone predictor among the three.
 
