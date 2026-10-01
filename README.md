@@ -164,10 +164,9 @@ jupyter notebook notebooks/advertising_sales_prediction.ipynb
 
 ---
 
-## 👤 Author
+##  Author
 
 **Khaled Amireh**
-[GitHub](https://github.com/khaled-amireh)
 
 ---
 
