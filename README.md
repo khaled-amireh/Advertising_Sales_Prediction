@@ -119,7 +119,7 @@ This points toward a natural next step: since no single channel captures the ful
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Advertising-Sales-Prediction/
