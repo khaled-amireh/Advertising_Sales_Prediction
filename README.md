@@ -53,7 +53,7 @@ Comparing the three in isolation — rather than jumping straight to a multi-fea
 
 ---
 
-## 🛠️ Tools and Libraries
+##  Tools and Libraries
 
 | Category | Tools |
 |---|---|
