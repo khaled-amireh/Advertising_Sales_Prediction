@@ -99,9 +99,9 @@ After evaluating all three models on the held-out test set:
 
 | Channel | R² Score | MSE / RMSE | Relative Performance |
 |---|:---:|:---:|---|
-| 📺 **TV Advertising** | **Highest** | **Lowest** | 🥇 Strongest predictor |
-| 📻 **Radio Advertising** | Moderate | Moderate | 🥈 Middle performer |
-| 📰 **Newspaper Advertising** | Lowest | Highest | 🥉 Weakest predictor |
+|  **TV Advertising** | **Highest** | **Lowest** | 🥇 Strongest predictor |
+|  **Radio Advertising** | Moderate | Moderate | 🥈 Middle performer |
+|  **Newspaper Advertising** | Lowest | Highest | 🥉 Weakest predictor |
 
 > Exact metric values for each model are available in the notebook — the table above summarizes the relative ranking established by the evaluation.
 
