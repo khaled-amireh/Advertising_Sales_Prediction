@@ -154,7 +154,7 @@ jupyter notebook notebooks/advertising_sales_prediction.ipynb
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - [ ] Build a **Multiple Linear Regression** model combining all three channels
 - [ ] Test for multicollinearity between advertising channels before combining them
